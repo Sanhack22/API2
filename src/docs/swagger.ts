@@ -8,7 +8,7 @@ const swaggerDefinition : OAS3Definition = {
     },
     servers:[
         {
-            url:"http://localhost:5000",
+            url:"https://literate-telegram-p46wvqvgj7x2r5pp-5000.app.github.dev/",
 
         },
     ],
